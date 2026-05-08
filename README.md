@@ -36,7 +36,9 @@ I'm a final-year Software Engineering student passionate about Web Development, 
 - Observability: Prometheus & Grafana.
   
  I manage the complete lifecycle of modern software systems: development, testing, CI/CD automation, deployment and monitoring.
+ 
  I am particularly interested in AI,  with hands-on experience in data preparation, applications in NLP, generative AI, recommendation systems through academic projects.
+ 
 ---
 
 ## 🛠️ Technical Stack
