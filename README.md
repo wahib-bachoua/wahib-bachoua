@@ -58,19 +58,13 @@ I'm a final-year Software Engineering student passionate about Web Development, 
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=wahib-bachoua&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiques GitHub">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahib-bachoua&theme=dark&hide_border=true" alt="Série de contributions GitHub">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahib-bachoua&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Langages les plus utilisés">
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=wahib-bachoua&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahib-bachoua&theme=dark&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wahib-bachoua&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="180"/>
+</div>
 
 ---
 
